@@ -1,0 +1,88 @@
+.pdt {
+    padding-top: 251px;
+    
+}
+.pdl {
+    padding-left: 120px;
+}
+
+button {
+    color: rgba(113, 168, 158, 1);
+}
+
+img {
+    width: 617px;
+    height: 664px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: rgba(113, 168, 158, 1) !important;
+    border-color: rgb(0, 0, 0) !important;
+}
+
+h2 {
+    font-family: 'San Francisco Pro' !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
+    font-size: 48px !important;
+}
+
+a h2 {
+    font-family: 'San Francisco Pro' !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
+    font-size: 42px !important;
+}
+
+button {
+    font-family: 'San Francisco Pro' !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
+    font-size: 18px !important;
+}
+
+nav {
+
+}
+
+p{
+    font-family: 'San Francisco Pro' !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
+    font-size: 24px !important;
+}
+
+.disabled {
+    color: rgba(113, 168, 158, 1) !important;
+}
+
+@font-face {
+    font-family: 'San Francisco Pro';
+    src: local('San Francisco Pro Display Bold'), local('San-Francisco-Pro-Display-Bold'),
+        url('fonts/SFProDisplay-Bold.woff2') format('woff2'),
+        url('fonts/SFProDisplay-Bold.woff') format('woff'),
+        url('fonts/SFProDisplay-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'San Francisco Pro';
+    src: local('San Francisco Pro Display Regular'), local('San-Francisco-Pro-Display-Regular'),
+        url('fonts/SFProDisplay-Regular.woff2') format('woff2'),
+        url('fonts/SFProDisplay-Regular.woff') format('woff'),
+        url('fonts/SFProDisplay-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: 'San Francisco Pro';
+    src: local('San Francisco Pro Display Medium'), local('San-Francisco-Pro-Display-Medium'),
+        url('fonts/SFProDisplay-Medium.woff2') format('woff2'),
+        url('fonts/SFProDisplay-Medium.woff') format('woff'),
+        url('fonts/SFProDisplay-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
